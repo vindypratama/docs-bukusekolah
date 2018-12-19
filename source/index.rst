@@ -29,3 +29,4 @@ Berikut ini daftar isi yang ada:
 	konfigurasi
 	user_type
 	pengelolaan
+	tipe_status
