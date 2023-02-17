@@ -21,6 +21,7 @@ Pesanan (Order) yang dibuat oleh pelanggan/sekolah memiliki beberapa status, dia
 * 7 = Telah Sampai
 * 8 = Diterima
 * 9 = Dibayar
+* 10 = Retur
 
 =================
 Status Pembayaran
