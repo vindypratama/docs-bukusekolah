@@ -38,6 +38,7 @@ Status Supply Chain
 * 2 = Diproses
 * 3 = Dikirim
 * 4 = Selesai
+* 5 = Batal
 
 ===============
 Status Logistik
